@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Krishnakumar's github stats](https://github-readme-stats.vercel.app/api?username=krishnakumarg1984)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **krishnakumarg1984/krishnakumarg1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
